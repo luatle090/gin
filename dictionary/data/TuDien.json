@@ -1,0 +1,152 @@
+{
+	"words": {
+		"en": [
+			{
+				"word": "hello",
+				"mean": "bonjaure"
+			},
+			{
+				"word": "theater",
+				"mean": "théâtre"
+			},
+			{
+				"word": "beach",
+				"mean": "plage"
+			},
+			{
+				"word": "news",
+				"mean": "nouvelles"
+			},
+			{
+				"word": "marry",
+				"mean": "marier"
+			},
+			{
+				"word": "navy",
+				"mean": "marin"
+			},
+			{
+				"word": "football",
+				"mean": "football"
+			},
+			{
+				"word": "newspaper",
+				"mean": "journal"
+			},
+			{
+				"word": "sport",
+				"mean": "sport"
+			},
+			{
+				"word": "shadow",
+				"mean": "ombre"
+			},
+			{
+				"word": "camera",
+				"mean": "caméra"
+			},
+			{
+				"word": "spaceship",
+				"mean": "dirigeable"
+			},
+			{
+				"word": "gun",
+				"mean": "pistolet"
+			},
+			{
+				"word": "movie",
+				"mean": "film"
+			},
+			{
+				"word": "coffee",
+				"mean": "café"
+			},
+			{
+				"word": "advantage",
+				"mean": "avantage"
+			},
+			{
+				"word": "computer",
+				"mean": "ordinateur"
+			},
+			{
+				"word": "chance",
+				"mean": "chance"
+			}
+		],
+		"fr": [
+			{
+				"word": "bonjaure",
+				"mean": "hello"
+			},
+			{
+				"word": "théâtre",
+				"mean": "theater"
+			},
+			{
+				"word": "plage",
+				"mean": "beach"
+			},
+			{
+				"word": "nouvelles",
+				"mean": "news"
+			},
+			{
+				"word": "marier",
+				"mean": "marry"
+			},
+			{
+				"word": "marin",
+				"mean": "navy"
+			},
+			{
+				"word": "football",
+				"mean": "football"
+			},
+			{
+				"word": "journal",
+				"mean": "newspaper"
+			},
+			{
+				"word": "sport",
+				"mean": "sport"
+			},
+			{
+				"word": "ombre",
+				"mean": "shadow"
+			},
+			{
+				"word": "caméra",
+				"mean": "camera"
+			},
+			{
+				"word": "dirigeable",
+				"mean": "spaceship"
+			},
+			{
+				"word": "pistolet",
+				"mean": "gun"
+			},
+			{
+				"word": "film",
+				"mean": "movie"
+			},
+			{
+				"word": "café",
+				"mean": "coffee"
+			},
+			{
+				"word": "avantage",
+				"mean": "advantage"
+			},
+			{
+				"word": "ordinateur",
+				"mean": "computer"
+			},
+			{
+				"word": "chance",
+				"mean": "chance"
+			}
+		]
+	}
+}
